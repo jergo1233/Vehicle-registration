@@ -1,0 +1,39 @@
+
+        body { font-family: Arial; padding: 20px; }
+        #login { width: 500px; margin: 0 auto; padding: 20px; }
+        form {
+            border: 1px solid #ccc;
+            padding: 20px;
+            border-radius: 16px;
+            margin-bottom: 20px;
+            background-color: rgb(252, 251, 246);
+            box-shadow: 0 2px 6px rgba(0, 0, 1, 0.486);
+        }
+        input {
+            width: 92%;
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 12px;
+            border-color: blue;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            margin-left:110px;
+            background: blue;
+            color: white;
+            border: none;
+        }
+        .b {
+            background-color: blue;
+            width: 50%;
+            text-align:center;
+            border-radius: 12px;
+        }
+        .b:hover {
+            background-color: white;
+            border-color: blue;
+            color: blue;
+            border: 1px solid #350de6ff;
+        }
+    
